@@ -1,6 +1,6 @@
 Dzire
 ======
-Responsive one page theme [Twitter Bootstrap](http://getbootstrap.com/) framework.
+Free Responsive one page theme [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
 ### Credits
  * [jQuery](http://jquery.com/)
@@ -17,4 +17,4 @@ Responsive one page theme [Twitter Bootstrap](http://getbootstrap.com/) framewor
  * [Unsplash](http://unsplash.com/)
  * [Stockvault](https://www.stockvault.net/c/people)
  
-Free Bootstrap theme
+
